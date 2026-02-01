@@ -1,0 +1,11 @@
+
+{
+  "name": "AgriSynch: Professional Farmer Advisory",
+  "short_name": "AgriSynch",
+  "description": "A professional-grade offline agricultural advisor for high-yield farming and Synchronized AI diagnostics.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
